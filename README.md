@@ -1,4 +1,4 @@
-# Proshop eCommerce Platform
+# eCommerce Platform
 
 ## Gallery
 
