@@ -1,6 +1,6 @@
 # eCommerce Platform
 
-## Link
+## Link (1 minute loading time due to Render Free Plan)
 https://ecommerce-platform-mern.onrender.com/
 
 ## Gallery
